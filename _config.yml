@@ -1,0 +1,11 @@
+title: Kingspibody
+email: you@example.com
+description: >-
+  Bold takes. Clean facts. Kingspibody — a creator-run blog covering culture, news, and growth.
+baseurl: "" # leave blank if using username.github.io, otherwise "/kingspibody"
+url: ""     # your site base URL (e.g., https://username.github.io)
+theme: minima
+show_excerpts: true
+plugins:
+  - jekyll-feed
+markdown: kramdown
